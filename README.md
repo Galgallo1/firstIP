@@ -17,6 +17,6 @@ PORTFOLIO LANDING PAGE
   2. CSS
 
  # License
- 
+ MIT License
 
 
