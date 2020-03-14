@@ -10,3 +10,10 @@ h1 {
 body {
     background-color: chartreuse;
 }
+h2 {
+    color: coral;
+    text-align: center;
+    font-size: medium;
+    font-style: initial;
+
+}
