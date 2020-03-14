@@ -1,6 +1,5 @@
 # Project Name
- Portfolio landing page
-
+PORTFOLIO LANDING PAGE
 
  # Author
    Galgallo Tadicha
@@ -17,6 +16,7 @@
   1. HTML
   2. CSS
 
- # 
+ # License
+ 
 
 
